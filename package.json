@@ -1,0 +1,31 @@
+{
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@ant-design/icons": "latest",
+    "antd": "4.20.5",
+    "axios": "0.27.2",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^4.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "^4.0.5"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "title": "Editable Rows - antd@4.20.5",
+  "name": "editable-rows-antd4205-forked",
+  "description": null,
+  "version": "0.0.0"
+}
